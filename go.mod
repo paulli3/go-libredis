@@ -1,4 +1,4 @@
-module github.com/paulli3/go-libredis
+module apksystem
 
 go 1.14
 
